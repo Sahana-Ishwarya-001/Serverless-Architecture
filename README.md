@@ -36,6 +36,7 @@ POST
 ```
 
 Why POST method?
+
 When you’re building internal utilities or microservices that interact with DynamoDB, POST gives you flexibility to send structured payloads for:
 
 * create
